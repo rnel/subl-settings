@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"CSScomb",
+		"File Navigator",
+		"Git",
+		"GitGutter",
+		"LiveReload",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SyncedSideBar",
+		"Theme - Soda"
+	]
+}
