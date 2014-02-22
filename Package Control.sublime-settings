@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"CoffeeScript",
 		"CSScomb",
 		"File Navigator",
 		"Git",
