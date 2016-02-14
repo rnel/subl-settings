@@ -1,13 +1,22 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"SideBarEnhancements"
+	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
+		"Babel",
 		"CoffeeScript",
 		"CSScomb",
 		"File Navigator",
 		"Git",
 		"GitGutter",
+		"Handlebars",
 		"HTML-CSS-JS Prettify",
+		"JSCS-Formatter",
 		"LiveReload",
 		"Package Control",
 		"PlainTasks",
