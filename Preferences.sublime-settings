@@ -1,13 +1,13 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
-	"font_size": 12.0,
+	"font_size": 11.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Babel",
 		"File Navigator",
 		"LiveReload",
-		"SideBarEnhancements",
 		"Vintage"
 	],
 	"soda_classic_tabs": true,
