@@ -1,8 +1,0 @@
-[
-  { "keys": ["ctrl+escape"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-  { "keys": ["super+v"], "command": "paste_and_indent" },
-  { "keys": ["super+shift+v"], "command": "paste" },
-  { "keys": ["super+k", "super+k"], "command": "unbound" },
-  { "keys": ["super+k", "super+e"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete to Hard EOL.sublime-macro"} },
-  { "keys": ["super+k", "super+m"], "command": "toggle_minimap" }
-]

@@ -2,28 +2,21 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Babel"
+		"Package Control"
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
-		"Alignment",
 		"Babel",
-		"CoffeeScript",
-		"CSScomb",
-		"File Navigator",
-		"Git",
+		"EditorConfig",
 		"GitGutter",
-		"Handlebars",
 		"HTML-CSS-JS Prettify",
-		"JSCS-Formatter",
-		"LiveReload",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
 		"Package Control",
-		"PlainTasks",
 		"Pretty JSON",
-		"SCSS",
+		"Sass",
 		"SideBarEnhancements",
-		"SyncedSideBar",
-		"Theme - Soda"
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
 	]
 }
